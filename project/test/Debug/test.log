@@ -1,0 +1,14 @@
+﻿  test.cpp
+C:\programm\Graph\project\test\test.cpp(217,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(231,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(281,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(284,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(306,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(347,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(365,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(449,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(486,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(505,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(525,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\programm\Graph\project\test\test.cpp(552,20): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> C:\programm\Graph\project\Debug\test.exe

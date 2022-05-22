@@ -1,0 +1,26 @@
+﻿  test.cpp
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glBegin в функции "void __cdecl display(void)" (?display@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glClear в функции "void __cdecl display(void)" (?display@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glClearColor в функции "void __cdecl init(void)" (?init@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glColor3f в функции "void __cdecl display(void)" (?display@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glEnd в функции "void __cdecl display(void)" (?display@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glFlush в функции "void __cdecl display(void)" (?display@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glLineWidth в функции "void __cdecl display(void)" (?display@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glLoadIdentity в функции "void __cdecl init(void)" (?init@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glMatrixMode в функции "void __cdecl init(void)" (?init@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glOrtho в функции "void __cdecl init(void)" (?init@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glVertex3f в функции "void __cdecl display(void)" (?display@@YAXXZ).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutInitWithExit в функции glutInit_ATEXIT_HACK.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitDisplayMode в функции main.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowPosition в функции main.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowSize в функции main.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutMainLoop в функции main.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutCreateWindowWithExit в функции glutCreateWindow_ATEXIT_HACK.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutPostRedisplay в функции "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z).
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutDisplayFunc в функции main.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutKeyboardFunc в функции main.
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutMouseFunc в функции main.
+C:\GLFiles\lib\opengl32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\GLFiles\lib\glu32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\GLFiles\lib\glut32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\programm\test\x64\Debug\test.exe : fatal error LNK1120: неразрешенных внешних элементов: 21
