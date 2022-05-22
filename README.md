@@ -1,1 +1,5 @@
-# -
+# Intersection of convex polygons
+### Пересечение выпуклых полигонов
+<p> Добавить описание и гифку!!! </p>
+
+![intersection](https://user-images.githubusercontent.com/102478524/169718445-401b8632-fb65-4046-96c2-dbe7e9d91d98.jpg)
