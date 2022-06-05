@@ -19,7 +19,7 @@
 using namespace std;
 
 float const xmax = 20, xmin = 0, ymax = 10, ymin = 0;
-int const width = 1000, height = 1000;
+int const width = 900, height = 700;
 double  x, y;
 float d = 0.15, d2 = 0.0001;
 

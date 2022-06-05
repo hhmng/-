@@ -1,6 +1,0 @@
-﻿  lab6.cpp
-D:\graphics\lab6\lab6\lab6.cpp(124,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\graphics\lab6\lab6\lab6.cpp(130,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\graphics\lab6\lab6\lab6.cpp(209,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\graphics\lab6\lab6\lab6.cpp(212,27): warning C4018: <: несоответствие типов со знаком и без знака
-  lab6.vcxproj -> D:\graphics\lab6\Debug\lab6.exe
